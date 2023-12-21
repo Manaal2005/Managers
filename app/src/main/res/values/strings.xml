@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Managers</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_intentactivity">intentactivity</string>
+    <string name="title_activity_products">productsActivity</string>
+    <string name="title_activity_splashscreenactivity">splashscreenactivity</string>
+</resources>
